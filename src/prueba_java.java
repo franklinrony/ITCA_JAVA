@@ -13,5 +13,6 @@ public class prueba_java {
     	
     	// TODO, add your application code
     	System.out.println("Hello World!");
+		System.out.print("dos");
     }
 }
